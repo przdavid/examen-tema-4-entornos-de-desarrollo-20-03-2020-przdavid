@@ -1,5 +1,6 @@
 /**
  * @author Jaime Rabasco Ronda
+ * @version v0.0.1
  */
 /*Refactorización
 Extrae una superclase Vehículo con los campos

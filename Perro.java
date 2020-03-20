@@ -1,3 +1,7 @@
+/**
+ * @author Jaime Rabasco Ronda
+ * @version v0.0.1
+ */
 
 public class Perro {
 
@@ -6,7 +10,7 @@ public class Perro {
 	}
 
 	void ladrar() {
-		String guau = "Guau"
+		String guau = "Guau";
 		System.out.println(guau);
 	}
 
